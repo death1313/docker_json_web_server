@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+  json-server:
+    container_name: json-server
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: json-server --host 0.0.0.0 -p 3000 --watch /data/db.json
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data/db.json:/data/db.json
+    restart: always
+
+

@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Morteza Zakeri",
+      "position": "FullStack Developer"
+    },
+    {
+      "id": 2,
+      "name": "Rolf P",
+      "position": "Frontend Developer"
+    },
+    {
+      "id": 3,
+      "name": "Hasan U",
+      "position": "Backend Developer"
+    },
+    {
+      "id": 5,
+      "name": "Mr No one",
+      "position": "No Where"
+    }
+  ],
+  "department": [
+    {
+      "id": 1,
+      "name": "IT"
+    },
+    {
+      "id": 2,
+      "name": "Economy"
+    },
+    {
+      "id": 3,
+      "name": "HR"
+    },
+    {
+      "id": 4,
+      "name": "Sale"
+    },
+    {
+      "id": 5,
+      "name": "New one"
+    }
+  ]
+}
