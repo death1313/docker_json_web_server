@@ -19,6 +19,16 @@
       "id": 5,
       "name": "Mr No one",
       "position": "No Where"
+    },
+    {
+      "id": 6,
+      "name": "John Doe",
+      "position": "Accounting Manager"
+    },
+    {
+      "id": 7,
+      "name": "Jane Doe",
+      "position": "CEO, woooow"
     }
   ],
   "department": [
@@ -42,5 +52,15 @@
       "id": 5,
       "name": "New one"
     }
-  ]
+  ],
+  "report": {
+    "object": "report",
+    "total": 4,
+    "data": [
+      "2021",
+      "2020",
+      "2019",
+      "2018"
+    ]
+  }
 }
