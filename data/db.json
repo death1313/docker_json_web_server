@@ -62,5 +62,12 @@
       "2019",
       "2018"
     ]
+  },
+  "meta": {
+    "user": {
+      "name": "Morteza Zakeri",
+      "permission": "Administrator",
+      "photo": "https://icons.iconarchive.com/icons/iconsmind/outline/256/User-icon.png"
+    }
   }
 }
